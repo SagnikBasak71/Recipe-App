@@ -10,3 +10,4 @@ Features:
 📱 Fully Responsive design for mobile and desktop
 
 🖼 Beautiful images for each recipe
+
